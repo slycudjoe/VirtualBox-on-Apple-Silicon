@@ -49,7 +49,7 @@ You may need to enter your <b>MacOS</b> administrator password during the instal
 <img src="https://imgur.com/PWjIDr4.png" height="80%" width="80%" alt="VirtualBox Installation Steps"/>
 
 
-<b>By following these steps, you should be able to successfully install and run VirtualBox on Mac (M1 | M2 | M3 | Apple Silicon).</b>
+<b>By following these steps, you should be able to successfully install and run VirtualBox on an Apple Silicon Mac (M1 | M2 | M3 | Apple Silicon).</b>
 
 </p>
 
